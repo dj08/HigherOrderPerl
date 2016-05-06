@@ -1,0 +1,4 @@
+START Line 1 END
+Line 2
+START Line 3
+Line 4 END
